@@ -360,8 +360,3 @@ window.addEventListener('load', function() {
     }
 });
 
-
-
-ao vivo
-
-Pular para ao vivo

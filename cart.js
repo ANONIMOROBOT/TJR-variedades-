@@ -299,8 +299,3 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-
-
-ao vivo
-
-Pular para ao vivo
